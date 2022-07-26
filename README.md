@@ -21,6 +21,9 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+### Stats
+![Zenklot's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenklot&show_icons=true&theme=radical)
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -34,4 +37,3 @@
 [instagram]: https://instagram.com/zenklot
 [linkedin]: https://linkedin.com/in/gozenx
 
-![Zenklot's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenklot&show_icons=true&theme=radical)
