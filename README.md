@@ -33,3 +33,5 @@
 [youtube]: https://www.youtube.com/channel/UCiDXSqL_Rjv8wWKcx6suUzQ
 [instagram]: https://instagram.com/zenklot
 [linkedin]: https://linkedin.com/in/gozenx
+
+![Zenklot's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenklot&show_icons=true&theme=radical)
