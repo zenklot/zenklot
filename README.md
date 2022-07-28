@@ -22,7 +22,8 @@
 </p>
 
 ### Stats
-![Zenklot's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenklot&show_icons=true&theme=radical)
+![Zenklot's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenklot&show_icons=true&theme=radical&count_private=true)
+
 ![](https://komarev.com/ghpvc/?username=Aghniyan&label=VISITOR)
 
 ### Connect with me:
