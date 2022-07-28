@@ -24,7 +24,9 @@
 ### Stats
 ![Zenklot's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenklot&show_icons=true&theme=radical&count_private=true)
 
-![](https://komarev.com/ghpvc/?username=Aghniyan&label=VISITOR)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenklot)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=zenklot&label=VISITOR)
 
 ### Connect with me:
 
