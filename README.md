@@ -24,7 +24,7 @@
 ### Stats
 ![Zenklot's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenklot&show_icons=true&theme=radical&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenklot)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenklot)
 
 ![](https://komarev.com/ghpvc/?username=zenklot&label=VISITOR)
 
