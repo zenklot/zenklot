@@ -1,12 +1,12 @@
 ## Hello World!
 
 ### :wave: My name is Raisa Supriatna - aka Gozenx
-- :man_student: I'm a fresh graduate in this year 2021
-- :muscle: I'm a person who never gives up before winning as long as there is a possibility
-- :handshake: I'm a loyal person and don't like lies
-- :seedling: I'm currently developing my skill in software engineer
+- :man_student: I'm a Frontend Developer
+- :muscle: I'm a strong man and never gives up
+- :handshake: I'm a loyal person and don't like bullshit
+- :seedling: I'm currently developing my skill in software developer
 
-#### Today, I want to make something with my skills that can make other people's work easier
+#### Today, I want to make something big with my skills
 
 ---
 <p>
